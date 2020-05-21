@@ -1,0 +1,80 @@
+       body {
+          background-color: lightgrey; 
+        }
+        
+        h2 {
+          font-family:'libre baskerville', serif;
+        }
+    
+        h3 {
+          font-family:'libre baskerville', serif;
+        }
+        
+        .IMG1 {
+            float: right;
+            border-style: solid;
+            border-color: white;
+        }
+        
+        
+        p {
+           font-family:'Open Sans', sans-serif; 
+        }
+        .L1 {
+          font-family:'Open Sans', sans-serif;    
+        }
+        .L2 {
+          font-family:'Open Sans', sans-serif; 
+        }
+        .header {
+            text-align: center;
+        }
+        .footer {
+          text-align: center;  
+        }
+        .IMG2 {
+            border-style: solid;
+            border-color: white;
+            text-align: center;
+        }
+
+
+Body {
+          background-color: lightgrey;
+        }
+        
+        h2 {
+          font-family:'libre baskerville', serif;
+        }
+    
+        h3 {
+          font-family:'libre baskerville', serif;
+        }
+        
+        .IMG1 {
+            float: right;
+            border-style: solid;
+            border-color: white;
+        }
+        
+        
+        p {
+           font-family:'Open Sans', sans-serif; 
+        }
+        .list {
+          font-family:'Open Sans', sans-serif;    
+        }
+
+        .header {
+            text-align: center;
+        }
+        .footer {
+          text-align: center;  
+        }
+        .IMG2 {
+            border-style: solid;
+            border-color: white;
+            padding-left: inherit;
+            padding-right: inherit;
+            text-align: center;
+        }
